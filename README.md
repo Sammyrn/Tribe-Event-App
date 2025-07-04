@@ -4,8 +4,12 @@
 
 This is the **mobile consumer-facing** portion of the Tribe ecosystem. It allows individuals to browse, track, and engage with community events hosted by schools, organizations, and local groups.
 
-> 🔒 The source code for this project is private.  
-> 📱 [Try it on Expo Go](https://expo.dev/@your-username/tribe-app) *(link optional if available)*
+> 🔒 The source code for this project is private.
+> App can only be tested on android devices
+> 📱 [Try it on Expo Go](https://expo.dev/accounts/sammy.rn/projects/Tribe/builds/34a69e22-1362-45ed-804b-6465e6ed1232) 
+
+> 🔒 The figma for this project is at.  
+> 📱 [Check it on figma](https://www.figma.com/design/ysgSmmdeWCtCj9vl9okNMp/Triibe?m=auto&t=izOCqpOX2M7IYlB0-6) 
 
 ---
 
